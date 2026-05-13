@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/slogan.svg" alt="多做多错，少做少错，不做不错，不错不错" width="900" />
+  <img src="./assets/slogan.svg" alt="多做多错，少做少错，不做不错，不错不错" width="900" />
 </p>
 
 <picture>
